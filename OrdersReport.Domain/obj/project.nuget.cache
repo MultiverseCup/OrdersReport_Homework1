@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+4Qjc5QmxP4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Артур\\Desktop\\прога 3 курс\\OrdersReport\\OrdersReport.Domain\\OrdersReport.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Артур\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Артур\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\Артур\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

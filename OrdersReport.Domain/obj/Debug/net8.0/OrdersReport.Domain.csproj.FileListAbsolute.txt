@@ -1,0 +1,11 @@
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\bin\Debug\net8.0\OrdersReport.Domain.deps.json
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\bin\Debug\net8.0\OrdersReport.Domain.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\bin\Debug\net8.0\OrdersReport.Domain.pdb
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\OrdersReport.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\OrdersReport.Domain.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\OrdersReport.Domain.AssemblyInfo.cs
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\OrdersReport.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\OrdersReport.Domain.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\refint\OrdersReport.Domain.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\OrdersReport.Domain.pdb
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Domain\obj\Debug\net8.0\ref\OrdersReport.Domain.dll

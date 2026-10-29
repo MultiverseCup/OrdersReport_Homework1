@@ -1,0 +1,17 @@
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Infrastructure.deps.json
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Infrastructure.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Infrastructure.pdb
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Application.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Domain.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Application.pdb
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\bin\Debug\net8.0\OrdersReport.Domain.pdb
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.AssemblyInfo.cs
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersRe.F45ACC8E.Up2Date
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\refint\OrdersReport.Infrastructure.dll
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\OrdersReport.Infrastructure.pdb
+C:\Users\Артур\Desktop\прога 3 курс\OrdersReport\OrdersReport.Infrastructure\obj\Debug\net8.0\ref\OrdersReport.Infrastructure.dll
