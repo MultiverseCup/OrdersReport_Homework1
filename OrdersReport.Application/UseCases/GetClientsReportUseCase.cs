@@ -27,7 +27,9 @@ namespace OrdersReport.Application.UseCases
             {
                 var orders = ordersByClient[clientId].ToList();
                 if (orders.Count == 0)
+                {
                     throw new ClientNotFoundException(clientId);
+                }
 
                 var sum = orders.Sum(o => o.ItemPrice * o.ItemQuantity);
                 var favorite = orders

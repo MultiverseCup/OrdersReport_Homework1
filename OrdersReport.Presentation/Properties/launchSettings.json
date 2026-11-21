@@ -2,7 +2,7 @@
   "profiles": {
     "OrdersReport.Presentation": {
       "commandName": "Project",
-      "commandLineArgs": "1010 1020"
+      "commandLineArgs": "file 1010 1020 1023 1022"
     }
   }
 }
