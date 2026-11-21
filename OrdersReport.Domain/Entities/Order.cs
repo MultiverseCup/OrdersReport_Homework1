@@ -1,11 +1,11 @@
 ﻿namespace OrdersReport.Domain.Entities
 {
-    public class Order
+    public record Order
     {
-        public long ClientId { get; set; }
-        public long OrderId { get; set; }
-        public required string ItemName { get; set; }
-        public int ItemQuantity { get; set; }
-        public float ItemPrice { get; set; }
+        public required long ClientId { get; init; }
+        public required long OrderId { get; init; }
+        public required string ItemName { get; init; }
+        public required int ItemQuantity { get; init; }
+        public required float ItemPrice { get; init; }
     }
 }
